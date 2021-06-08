@@ -1,2 +1,2 @@
 # Class-Assignments
-Repository for university class assignments
+This repository contains some of my computer class projects from university.
