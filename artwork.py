@@ -1,5 +1,4 @@
 # Catherine Li
-# 260914784
 
 
 from turtle import *
