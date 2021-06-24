@@ -1,7 +1,4 @@
-# Assignment 2, Question 1
-# Author: Catherine Li
-# McGill ID: 260914784
-
+# Catherine Li
 
 def is_fibonacci(number):
     '''
